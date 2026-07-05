@@ -61,5 +61,3 @@ The models were evaluated using:
 ## 🏆 Results
 The best-performing model was: SVM
 It achieved the highest classification accuracy on the test dataset.
-
-Built an end-to-end machine learning pipeline for breast cancer classification, including data preprocessing, exploratory data analysis, feature scaling, model training, evaluation, visualization, and prediction. Compared multiple classification algorithms and selected the best-performing model based on evaluation metrics
